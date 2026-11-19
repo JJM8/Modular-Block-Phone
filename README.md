@@ -24,6 +24,12 @@ Full 3D assembly
 
 <img width="800" height="621" alt="Screenshot from 2026-11-19 22-36-48" src="https://github.com/user-attachments/assets/1bcdc483-80cf-4ff9-870d-6f2c9f16e511" />
 
+Exploded View
+
+<img width="828" height="768" alt="Screenshot from 2026-11-19 23-06-38" src="https://github.com/user-attachments/assets/4e6914b7-2aab-4199-a846-544a5d472766" />
+
+<img width="879" height="745" alt="Screenshot from 2026-11-19 23-05-37" src="https://github.com/user-attachments/assets/328eb392-5490-41a8-84ca-41e4b2305c8d" />
+
 
 
 
