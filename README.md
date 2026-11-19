@@ -4,6 +4,10 @@
 
 My project for Hack Club Fallen, is a modular phone prototype. Once I build it, it will be fully functional with a multitude of modules. It uses magnets and spring fingers/pins. You can use it as a normal phone most of the time, and when you want to change a piece of hardware, you simply pull a module on the back off and put a new one on, an example of this could be changing your battery, or using a wider lense camera, or switching from a magsafe charging port to a USB-C port.
 
+**HOW TO USE IT**
+
+You can use it as a normal phone most of the time, and when you want to change a piece of hardware, you simply pull a module on the back off and put a new one on, an example of this could be changing your battery, or using a wider lense camera, or switching from a magsafe charging port to a USB-C port.
+
 **WHY I MADE IT**
 
 I made this because I came across an idea from 2014 called 'phonebloks', it was a render of a phone that was essentially a breadboard with modules that attach to it. 
