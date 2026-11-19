@@ -52,6 +52,8 @@ LAST BITS
 
  My project is quite large. I have segmented the files into a folder for each module, and one for the base board. Each of these folders contains an info.txt which tells you a bit about the part, and they also contain a .step of the entire module and images of the schematic + pcb, AND the gerber AND the .epro2 Easy EDA pro project file. These are things you should know:
 
+- Onshape link: https://cad.onshape.com/documents/f2b5af268e4416b960c7f24b/w/c8902db25726fdbc3c6632bf/e/53a77cd1040019ed3faeedc2?renderMode=0&uiState=6aff7a4689017861fb8b1852
+
 - I am going to 3D print ALL the structural pieces at home, so CAD can and probably will be changed, for the absolute best margins so parts fit perfectly.
 
 - Almost everything is epoxied together, I am using very thin epoxy which will attach everything you see in CAD.
