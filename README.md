@@ -19,9 +19,9 @@ My first idea was how cool this would be with magnets. THEN I found out about ha
 **SCREENSHOTS**
 
 Full 3D assembly
-<img width="1163" height="784" alt="image" src="https://github.com/user-attachments/assets/d3aa3af8-cb11-4aab-a101-0e08c50ae62a" />
+<img width="820" height="684" alt="Screenshot from 2026-11-19 22-37-07" src="https://github.com/user-attachments/assets/f08dc713-2b33-4ca9-b3bb-0f055d04a006" />
+<img width="800" height="621" alt="Screenshot from 2026-11-19 22-36-48" src="https://github.com/user-attachments/assets/1bcdc483-80cf-4ff9-870d-6f2c9f16e511" />
 
-<img width="958" height="747" alt="image" src="https://github.com/user-attachments/assets/7ff9d2ef-a931-41d8-bef2-f580c264798a" />
 
 
 
@@ -34,8 +34,9 @@ SCHEMATIC
 PCB
 
 <img width="2160" height="4056" alt="Baseboard PCB" src="https://github.com/user-attachments/assets/05a017c4-3cd2-4040-80fe-4882b8909e66" />
+<img width="1218" height="1193" alt="Screenshot from 2026-11-19 08-24-01" src="https://github.com/user-attachments/assets/356ad716-7f1d-4527-944d-6312be00955a" />
+<img width="1366" height="1251" alt="Screenshot from 2026-11-19 08-24-24" src="https://github.com/user-attachments/assets/813dc3ef-ed64-4444-b39b-c56900cdbdd5" />
 
-<img width="2160" height="3462" alt="Baseboard PCB 3D" src="https://github.com/user-attachments/assets/d4fc2139-cd15-4988-b438-c0276705c860" />
 
 
 
