@@ -62,7 +62,7 @@ My project uses the unique connection method of magnets and spring pins. 4 Magne
 
 LAST BITS
 
- My project is quite large. I have segmented the files into a folder for each module, and one for the base board. Each of these folders contains an info.txt which tells you a bit about the part, and they also contain a .step of the entire module and images of the schematic + pcb, AND the gerber AND the .epro2 Easy EDA pro project file. These are things you should know:
+ My project is quite large. I have segmented the files into a folder for each module, and one for the base board. Each folder contains a .step of the entire module, images of the schematic + PCB, the gerber and the .epro2 Easy EDA pro project file. These are things you should know:
 
 - ONSHAPE link: https://cad.onshape.com/documents/f2b5af268e4416b960c7f24b/w/c8902db25726fdbc3c6632bf/e/53a77cd1040019ed3faeedc2?renderMode=0&uiState=6aff7a4689017861fb8b1852
 
