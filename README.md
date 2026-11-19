@@ -19,7 +19,9 @@ My first idea was how cool this would be with magnets. THEN I found out about ha
 **SCREENSHOTS**
 
 Full 3D assembly
+
 <img width="820" height="684" alt="Screenshot from 2026-11-19 22-37-07" src="https://github.com/user-attachments/assets/f08dc713-2b33-4ca9-b3bb-0f055d04a006" />
+
 <img width="800" height="621" alt="Screenshot from 2026-11-19 22-36-48" src="https://github.com/user-attachments/assets/1bcdc483-80cf-4ff9-870d-6f2c9f16e511" />
 
 
@@ -34,7 +36,9 @@ SCHEMATIC
 PCB
 
 <img width="2160" height="4056" alt="Baseboard PCB" src="https://github.com/user-attachments/assets/05a017c4-3cd2-4040-80fe-4882b8909e66" />
+
 <img width="1218" height="1193" alt="Screenshot from 2026-11-19 08-24-01" src="https://github.com/user-attachments/assets/356ad716-7f1d-4527-944d-6312be00955a" />
+
 <img width="1366" height="1251" alt="Screenshot from 2026-11-19 08-24-24" src="https://github.com/user-attachments/assets/813dc3ef-ed64-4444-b39b-c56900cdbdd5" />
 
 
@@ -43,6 +47,7 @@ PCB
 LAYOUT
 
 I didn't want to crowd the read me, so it's best you go to the individual module folders to review the modules.
+
 <img width="656" height="1297" alt="module_layout" src="https://github.com/user-attachments/assets/579285b4-102e-44f5-a92f-6fbb2b323c8d" />
 
 MAIN MECHANISM
