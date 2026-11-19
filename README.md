@@ -1,4 +1,4 @@
-Hello reviewer.
+# MBP (Modular Block/Brick Phone)
 
 **WHAT MY PROJECT IS**
 
@@ -15,22 +15,51 @@ My first idea was how cool this would be with magnets. THEN I found out about ha
 **SCREENSHOTS**
 
 Full 3D assembly
-<img width="1477" height="1191" alt="cad_screenshot1" src="https://github.com/user-attachments/assets/df3dbec0-a2ad-4e55-bb03-6d06893becdc" />
+<img width="1163" height="784" alt="image" src="https://github.com/user-attachments/assets/d3aa3af8-cb11-4aab-a101-0e08c50ae62a" />
 
-PCB(s)
+<img width="958" height="747" alt="image" src="https://github.com/user-attachments/assets/7ff9d2ef-a931-41d8-bef2-f580c264798a" />
 
 
 
- My project is quite large. I have tried to dilute all the files you dont need. I have put all the design files that are going to be used in the build phase of my product in the DESIGN folder, and all the ordering files in the ORDER folder and I have put the more simple and more visual breakdown in the BREAKDOWN folder. These are things you should know:
+MAIN BOARD
 
-- I am going to 3D print ALL the structural pieces at home, so CAD can and probably will be changed, for the abseloute best margins so parts fit perfectly.
+SCHEMATIC
+
+<img width="1123" height="654" alt="Screenshot from 2026-11-18 22-11-08" src="https://github.com/user-attachments/assets/a7a6ef86-8f73-4812-8b29-7b9e17b7a2fc" />
+
+PCB
+
+<img width="2160" height="4056" alt="Baseboard PCB" src="https://github.com/user-attachments/assets/05a017c4-3cd2-4040-80fe-4882b8909e66" />
+
+<img width="2160" height="3462" alt="Baseboard PCB 3D" src="https://github.com/user-attachments/assets/d4fc2139-cd15-4988-b438-c0276705c860" />
+
+
+
+LAYOUT
+
+I didn't want to crowd the read me, so it's best you go to the individual module folders to review the modules.
+<img width="656" height="1297" alt="module_layout" src="https://github.com/user-attachments/assets/579285b4-102e-44f5-a92f-6fbb2b323c8d" />
+
+MAIN MECHANISM
+
+My project uses the unique connection method of magnets and spring pins. 4 Magnets are used per unit module, 3 of one polarity and 1 of the other so only 1 orientation is valid to avoid unwanted connections between modules and the base board. Modules carry the spring pins and have them soldered to them, these spring pins make contact to the base boards pads. This is why unfortunately even though I have read the design submission guidlines, I do have to use ENIG! as the HASL would quite quickly deteriorate and the layer beneath would oxidize and ruin the connection whereas gold will last much longer.
+
+LAST BITS
+
+ My project is quite large. I have segmented the files into a folder for each module, and one for the base board. Each of these folders contains an info.txt which tells you a bit about the part, and they also contain a .step of the entire module and images of the schematic + pcb, AND the gerber AND the .epro2 Easy EDA pro project file. These are things you should know:
+
+- I am going to 3D print ALL the structural pieces at home, so CAD can and probably will be changed, for the absolute best margins so parts fit perfectly.
 
 - Almost everything is epoxied together, I am using very thin epoxy which will attach everything you see in CAD.
 
 - I have meticulously hand checked everything and used AI to cross reference with datasheets and check everything is okay by providing it with the netlist.
 
+- My firmware was architecture by me but is written using AI tools such as Claude code. I really apologize for this, but I did not have time to write the firmware before I needed to submit my design and order the PCBs. I will be writing firmware for my modular phone as soon as PCB's are ordered and I have time.
+
 - ONSHAPE LINK: https://cad.onshape.com/documents/877a43865185f083dc327972/w/7df95f011379d1de9308fd9d/e/e89cbab7df2c442dfbe4b001?renderMode=0&uiState=6afb46ce130c76ef78e052ae
 
-- I'm sorry for using EasyEDA :( probably not your favourite to look at and have to review.
+- I understand my project is quite expensive, and I would be happy to pay for part of it, so if that is required, my messages are open to any updates.
+
+- I'm sorry for using EasyEDA :( probably not your favorite to look at and have to review.
 
 That's it! And thank you so much!!
