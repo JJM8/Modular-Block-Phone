@@ -52,7 +52,7 @@ LAST BITS
 
  My project is quite large. I have segmented the files into a folder for each module, and one for the base board. Each of these folders contains an info.txt which tells you a bit about the part, and they also contain a .step of the entire module and images of the schematic + pcb, AND the gerber AND the .epro2 Easy EDA pro project file. These are things you should know:
 
-- Onshape link: https://cad.onshape.com/documents/f2b5af268e4416b960c7f24b/w/c8902db25726fdbc3c6632bf/e/53a77cd1040019ed3faeedc2?renderMode=0&uiState=6aff7a4689017861fb8b1852
+- ONSHAPE link: https://cad.onshape.com/documents/f2b5af268e4416b960c7f24b/w/c8902db25726fdbc3c6632bf/e/53a77cd1040019ed3faeedc2?renderMode=0&uiState=6aff7a4689017861fb8b1852
 
 - I am going to 3D print ALL the structural pieces at home, so CAD can and probably will be changed, for the absolute best margins so parts fit perfectly.
 
@@ -62,7 +62,6 @@ LAST BITS
 
 - My firmware was architecture by me but is written using AI tools such as Claude code. I really apologize for this, but I did not have time to write the firmware before I needed to submit my design and order the PCBs. I will be writing firmware for my modular phone as soon as PCB's are ordered and I have time.
 
-- ONSHAPE LINK: https://cad.onshape.com/documents/877a43865185f083dc327972/w/7df95f011379d1de9308fd9d/e/e89cbab7df2c442dfbe4b001?renderMode=0&uiState=6afb46ce130c76ef78e052ae
 
 - I understand my project is quite expensive, and I would be happy to pay for part of it, so if that is required, my messages are open to any updates.
 
