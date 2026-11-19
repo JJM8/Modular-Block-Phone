@@ -1,3 +1,5 @@
+**ASSEMBLY INSTRUCTIONS**
+
 This text file contains the instructions necessary to create this project.
 
 - Base plate PCB must be ordered with these settings
@@ -22,4 +24,9 @@ This text file contains the instructions necessary to create this project.
 - Connect the main displays FPC to the FPC connector on the main PCB.
 - Now you can do the same with the PCB with the main chip facing the display. This leaves you with the pads exposed facing out of the back of this main part of the phone.
 - Follow the magnetic interface PDF to ensure you have the right polarity of each magnet when bonding them to the base plate through the holes in the PCB. Aslong as there is 1 magnet with one polarity and 3 magnets with the opposite polarity, the magnetic interface will function as intended
-- 
+- Once all the magnets are firmly bonded by the epoxy to the spacer and are inside their respective PCB drill holes, Use more of the same 3mm by 1mm magnets and attach them through magnetism to each magnet that is bonded to the spacer, so that they are in pairs.
+- Now put a thin layer of epoxy on top of each magnet, or do one module at a time. And then press each module down onto the magnets and clamp the module there.
+- Once the epoxy has dried you can remove the clamping mechanism and take of the module
+- By this stage you should be left with functioning modules that can mechanically and electrically connect to your base plate
+- The last stage is to bond the 3D printed front enclosure to the main body. This is done by applying a layer of epoxxy to the front lip of the enclosure and then firmly placing it on the display and keeping it very carefully pressed down until a firm bond is formed.
+- Now you have a complete Modular Block Phone!
