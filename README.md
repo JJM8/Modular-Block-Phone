@@ -2,7 +2,7 @@
 
 **WHAT MY PROJECT IS**
 
-My project for Hack Club Fallen, is a modular phone prototype. Once I build it, it will be fully functional with a multitude of modules. It uses magnets and spring fingers/pins. You can use it as a normal phone most of the time, and when you want to change a piece of hardware, you simply pull a module on the back off and put a new one on, an example of this could be changing your battery, or using a wider lense camera, or switching from a magsafe charging port to a USB-C port.
+My project for Hack Club Fallen, is a modular phone prototype. Once I build it, it will be fully functional with a multitude of magnetic snap on replaceable, swappable modules. It uses magnets along with spring fingers/pins for the electrical connection.
 
 **HOW TO USE IT**
 
