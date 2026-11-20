@@ -3,14 +3,14 @@
 This text file contains the instructions necessary to create this project.
 
 - Base plate PCB must be ordered with these settings
-- 1mm board thickness
-- PCBA
-- ENIG as surface finish option
+  - 1mm board thickness
+  - PCBA
+  - ENIG as surface finish option
 
 - Modules must be ordered either panelized and then cut accurately with an electric saw and sanded or ordered separately or with mouse bits / v cuts. With these settings.
-- Any surface finish (HASL for cost)
-- 1mm board thickness
-- PCBA is not strictly necessary but the cost difference between hand soldering each module, using a stencil and a hot plate or using JLC PCBA is small
+  - Any surface finish (HASL for cost)
+  - 1mm board thickness
+  - PCBA is not strictly necessary but the cost difference between hand soldering each module, using a stencil and a hot plate or using JLC PCBA is small
 
 - All module enclosures must be 3D printed in PLA with 0.1mm layer height, Lid and main enclosure separately.
 - Solder the spring pins onto the necessary pads on the bottom side of each module.
