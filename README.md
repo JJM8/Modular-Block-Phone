@@ -14,7 +14,7 @@ I made this because I came across an idea from 2014 called 'phonebloks', it was 
 <img width="1280" height="1220" alt="image" src="https://github.com/user-attachments/assets/be482d45-cad6-4e2d-b58c-a4f9ea327bd0" />
 Phonebloks - Dave Hakkens
 
-My first idea was how cool this would be with magnets. THEN I found out about hack club FALLEN due to my friend Aromal messaging me. I love making hardware stuff and have made numerous things in the past which are similar-ish, such as a wide screen smart watch. So this is the project I chose And now im here, and I'm very happy with the prototype I've designed and cannot wait to be able to show it off in SHENZEN!
+My first idea was how cool this would be with magnets. THEN I found out about hack club FALLEN due to my friend Aromal messaging me. I love making hardware stuff and have made numerous things in the past which are similar-ish, such as a wide screen smart watch. So this is the project I chose And now im here, and I'm very happy with the prototype I've designed and cannot wait to be able to show it off in SHENZHEN!
 
 **SCREENSHOTS**
 
@@ -72,11 +72,10 @@ LAST BITS
 
 - I have meticulously hand checked everything and used AI to cross reference with datasheets and check everything is okay by providing it with the netlist.
 
-- My firmware was architecture by me but is written using AI tools such as Claude code. I really apologize for this, but I did not have time to write the firmware before I needed to submit my design and order the PCBs. I will be writing firmware for my modular phone as soon as PCB's are ordered and I have time.
-
+- My firmware was architecture by me but is written using AI tools such as Claude code. I will be writing firmware myself, but I did not have time to write the firmware before I needed to submit my design and order the PCBs. I will be writing firmware for my modular phone as soon as PCB's are ordered and I have time.
 
 - I understand my project is quite expensive, and I would be happy to pay for part of it, so if that is required, my messages are open to any updates.
 
-- I'm sorry for using EasyEDA :( probably not your favorite to look at and have to review.
+- All EDA was done in Easy EDA pro and can be opened through it.
 
 That's it! And thank you so much!!
