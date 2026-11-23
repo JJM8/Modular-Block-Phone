@@ -41,11 +41,12 @@ SCHEMATIC
 
 PCB
 
-<img width="2160" height="4056" alt="Baseboard PCB" src="https://github.com/user-attachments/assets/05a017c4-3cd2-4040-80fe-4882b8909e66" />
+<img width="1506" height="1012" alt="image" src="https://github.com/user-attachments/assets/d14a0dc6-e184-4313-b59f-886373b7246e" />
 
-<img width="1218" height="1193" alt="Screenshot from 2026-11-19 08-24-01" src="https://github.com/user-attachments/assets/356ad716-7f1d-4527-944d-6312be00955a" />
+<img width="2160" height="3412" alt="PCB_PCB_PCB_Modular-Block-Phone-BASEPLATE_2026-11-04_2026-11-23" src="https://github.com/user-attachments/assets/cf9ca691-1d08-4428-84bc-21d873bbd6fb" />
 
-<img width="1366" height="1251" alt="Screenshot from 2026-11-19 08-24-24" src="https://github.com/user-attachments/assets/813dc3ef-ed64-4444-b39b-c56900cdbdd5" />
+<img width="1753" height="1227" alt="image" src="https://github.com/user-attachments/assets/51cc191e-19ab-4f0d-94c4-0aee04021db9" />
+
 
 
 
