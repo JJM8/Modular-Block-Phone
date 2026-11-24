@@ -1,4 +1,4 @@
-**Module panel**
+ # Module panel
 
 - 2 layer, 1.0 mm, HASL
 - 88.95 x 90.56 mm
