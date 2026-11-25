@@ -79,4 +79,6 @@ LAST BITS
 
 - All EDA was done in Easy EDA pro and can be opened through it.
 
+- I may have not ticked use of AI in my submission, that is incorrect, as AI tools were used to create mock up firmware, to examine datasheets for specific page numbers and pin defs, find LCSC parts for me and to check PCB's for problems before ordering. ALL content that was made, including CAD and any electronic design was produced by me, and NOT created by any AI tools.
+
 That's it! And thank you so much!!
